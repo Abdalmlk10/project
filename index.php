@@ -23,6 +23,7 @@
 
 <body class="gradient-bg">
 <?php include 'header.php' ?>
+<?php include 'footer.php' ?>
 </body>
 
 </html>
