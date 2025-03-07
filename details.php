@@ -20,7 +20,7 @@
 
 
 <body class="gradient-bg">
-
+<?php include 'header.php' ?>
   <main class="pt-90">
     <div class="mb-md-1 pb-md-3"></div>
     <section class="product-single container">
@@ -725,6 +725,7 @@
 
     </section><!-- /.products-carousel container -->
   </main>
+<?php include 'footer.php' ?>
 
 
 </body>
