@@ -20,7 +20,11 @@
 
 
 <body class="gradient-bg">
+
   <?php include 'header.php' ?>
+
+
+
   <main class="pt-90">
     <div class="mb-4 pb-4"></div>
     <section class="contact-us container">
@@ -72,7 +76,9 @@
 
   </main>
 
+
 <?php include 'footer.php' ?>
+
 
 
 
@@ -82,3 +88,4 @@
 </body>
 
 </html>
+
