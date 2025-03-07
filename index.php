@@ -22,8 +22,7 @@
 
 
 <body class="gradient-bg">
-
-  
+<?php include 'header.php' ?>
 </body>
 
 </html>
