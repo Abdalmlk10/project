@@ -19,7 +19,9 @@
 
 
 <body class="gradient-bg">
+
 <?php include 'header.php' ?>
+
   <main class="pt-90">
     <div class="mb-4 pb-4"></div>
     <section class="shop-checkout container">
@@ -237,8 +239,10 @@
       </div>
     </section>
   </main>
+
 <?php include 'footer.php' ?>
  
 </body>
 
 </html>
+

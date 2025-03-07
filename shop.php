@@ -20,7 +20,9 @@
 
 
 <body class="gradient-bg">
- 
+
+ <?php include 'header.php' ?>
+
   <main class="pt-90">
     <section class="shop-main container d-flex pt-4 pt-xl-5">
       <div class="shop-sidebar side-sticky bg-body" id="shopFilter">
@@ -872,7 +874,9 @@
     </section>
   </main>
 
+<?php include 'footer.php' ?>
   
 </body>
 
 </html>
+
